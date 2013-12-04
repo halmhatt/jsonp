@@ -1,0 +1,29 @@
+{
+  "name": "jsonp",
+  "version": "0.0.1",
+  "description": "Make jsonp requests and load scripts dynamically",
+  "main": "jsonp.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:halmhatt/jsonp.git"
+  },
+  "keywords": [
+    "js",
+    "coffee",
+    "jsonp",
+    "script"
+  ],
+  "author": "Jacob Carlsson",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-uglify": "~0.2.7"
+  }
+}
